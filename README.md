@@ -1,8 +1,8 @@
 # delta-demo
 this is my first   repo.
 
-# teacheer
+# teacher
 shradha khhapa
 
-# tudentr
+# stundent
 nitin
